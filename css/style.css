@@ -1,3 +1,7 @@
+body {
+    background: grey;
+}
+
 #title, .subtitle, .post_title {
     color:blue;
 }
