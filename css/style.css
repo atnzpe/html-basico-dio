@@ -1,17 +1,18 @@
 body {
-    background: white;
+    background: #f7f7f7;
 }
 
+.foto {
+    margin:0px;
+    border: 3px solid black;
+    margin-bottom: 15px;
+    border-radius: 60px;
  
 #title, .subtitle, .post_title {
     color:black
     ;
 }
 
-.foto {
-    margin:0px;
-    margin-bottom: 15px;
-    border-radius: 50px;
 }
 
 .post_title {
@@ -26,6 +27,7 @@ body {
     background: white;
     padding: 15px;
     border: 3px solid black;
+    margin: 0px;
     margin-bottom: 15px;
     border-radius: 30px;
 }
@@ -33,9 +35,11 @@ body {
 .post-content {
     margin: 0px;
     margin-bottom: 15px;
+    border-radius: 30px;
 }
 
 .post-image {
     margin: 0px;
     margin-bottom: 15px;
+    border-radius: 30px;
 }
