@@ -10,11 +10,21 @@ body {
     border-radius: 60px;
 }
 
+
+
 #title, .subtitle, .post_title {
     color:black;
 }
 
+#title {
+    font-size: 40px;
+    text-transform: uppercase;
+}
 
+a{
+ text-decoration: line-through;
+ color:black;
+}
 
 .post_title {
     font-size: 16px;
@@ -37,6 +47,7 @@ body {
     margin: 0px;
     margin-bottom: 15px;
     border-radius: 30px;
+    text-transform: capitalize;
 }
 
 .post-image {
