@@ -1,5 +1,6 @@
 body {
     background: #f7f7f7;
+    font-family: Verdana;
 }
 
 .foto {
@@ -7,13 +8,13 @@ body {
     border: 3px solid black;
     margin-bottom: 15px;
     border-radius: 60px;
- 
-#title, .subtitle, .post_title {
-    color:black
-    ;
 }
 
+#title, .subtitle, .post_title {
+    color:black;
 }
+
+
 
 .post_title {
     font-size: 16px;
