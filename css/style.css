@@ -55,3 +55,8 @@ a{
     margin-bottom: 15px;
     border-radius: 30px;
 }
+
+.content_list {
+    list-style-type: square;
+    
+}
